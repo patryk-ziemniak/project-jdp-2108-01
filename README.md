@@ -12,6 +12,8 @@
 - Dominik Bernatowicz
 - Kamil Król
 
+**Original repo:** [mps4dev/project-jdp-2108-01](https://github.com/mps4dev/project-jdp-2108-01)
+
 **Continued by me in this forked project**
 
 ### Endpoints documentation
