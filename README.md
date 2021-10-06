@@ -1,6 +1,6 @@
 # project-jdp-2108-01
 
-## Projekt zespołowy Kodilla 08.2021
+## Team Project Kodilla 08.2021
 
 **Project Manager** Marcin Szuppe
 
